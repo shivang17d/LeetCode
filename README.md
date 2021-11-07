@@ -4,8 +4,8 @@ https://leetcode.com/shivang_x/
 # Questions :
 
 	
-	Arrays
-	EASY
+Arrays
+EASY
 	https://leetcode.com/problems/two-sum/
 	https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 	https://leetcode.com/problems/merge-sorted-array/
@@ -19,7 +19,7 @@ https://leetcode.com/shivang_x/
 	https://leetcode.com/problems/pascals-triangle/
 	https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 	
-	MEDIUM
+MEDIUM
 	https://leetcode.com/problems/merge-intervals/
 	https://leetcode.com/problems/3sum/
 	https://leetcode.com/problems/product-of-array-except-self/
@@ -54,14 +54,14 @@ https://leetcode.com/shivang_x/
 	https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/
 	https://leetcode.com/problems/max-value-of-equation/
 	
-	DYNAMIC PROGRAMING
-	EASY
+DYNAMIC PROGRAMING
+EASY
 	https://leetcode.com/problems/maximum-subarray/
 	https://leetcode.com/problems/climbing-stairs
 	https://leetcode.com/problems/divisor-game/
 	https://leetcode.com/problems/counting-bits/
 	
-	MEDIUM
+MEDIUM
 	https://leetcode.com/problems/decode-ways/
 	https://leetcode.com/problems/word-break/
 	https://leetcode.com/problems/delete-and-earn/
@@ -79,7 +79,7 @@ https://leetcode.com/shivang_x/
 	https://leetcode.com/problems/range-sum-query-2d-immutable/
 	https://leetcode.com/problems/longest-arithmetic-subsequence/
 	
-	HARD
+HARD
 	https://leetcode.com/problems/trapping-rain-water/
 	https://leetcode.com/problems/word-break-ii/
 	https://leetcode.com/problems/regular-expression-matching/
@@ -96,8 +96,8 @@ https://leetcode.com/shivang_x/
 	https://leetcode.com/problems/count-different-palindromic-subsequences/
 	https://leetcode.com/problems/minimum-cost-to-cut-a-stick/
 	
-	STRINGS
-	EASY
+STRINGS
+EASY
 	https://leetcode.com/problems/add-strings/
 	https://leetcode.com/problems/longest-common-prefix/
 	https://leetcode.com/problems/valid-palindrome-ii/
@@ -126,8 +126,8 @@ https://leetcode.com/shivang_x/
 	https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/
 	https://leetcode.com/problems/substring-with-concatenation-of-all-words/
 	
-	MATHS
-	EASY
+MATHS
+EASY
 	https://leetcode.com/problems/reverse-integer/
 	https://leetcode.com/problems/add-binary/
 	https://leetcode.com/problems/palindrome-number/
@@ -147,7 +147,7 @@ https://leetcode.com/shivang_x/
 	https://leetcode.com/problems/valid-square/
 	https://leetcode.com/problems/the-kth-factor-of-n/
 	
-	HARD
+HARD
 	https://leetcode.com/problems/basic-calculator/
 	https://leetcode.com/problems/max-points-on-a-line/
 	https://leetcode.com/problems/permutation-sequence/
@@ -157,7 +157,7 @@ https://leetcode.com/shivang_x/
 	EASY 
 	THAT WOULD BE TOO EASY FOR YOU , LETS DO MEDIUM
 	
-	MEDIUM
+MEDIUM
 	https://leetcode.com/problems/task-scheduler/
 	https://leetcode.com/problems/gas-station/
 	https://leetcode.com/problems/minimum-deletion-cost-to-avoid-repeating-letters/
@@ -167,13 +167,13 @@ https://leetcode.com/shivang_x/
 	https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/
 	https://leetcode.com/problems/non-overlapping-intervals/
 	
-	HARD
+HARD
 	https://leetcode.com/problems/candy/
 	https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/
 	https://leetcode.com/problems/create-maximum-number/
 	
-	DFS
-	MEDIUM
+DFS
+MEDIUM
 	https://leetcode.com/problems/letter-combinations-of-a-phone-number/
 	https://leetcode.com/problems/course-schedule-ii/
 	https://leetcode.com/problems/decode-string/
@@ -184,7 +184,7 @@ https://leetcode.com/shivang_x/
 	https://leetcode.com/problems/surrounded-regions//
 	https://leetcode.com/problems/house-robber-iii/
 	
-	HARD
+HARD
 	https://leetcode.com/problems/critical-connections-in-a-network/
 	https://leetcode.com/problems/remove-invalid-parentheses/
 	https://leetcode.com/problems/longest-increasing-path-in-a-matrix/
@@ -194,8 +194,8 @@ https://leetcode.com/shivang_x/
 	https://leetcode.com/problems/24-game/
 	https://leetcode.com/problems/remove-boxes/
 	
-	TREE
-	EASY
+TREE
+EASY
 	https://leetcode.com/problems/diameter-of-binary-tree/
 	https://leetcode.com/problems/invert-binary-tree/
 	https://leetcode.com/problems/subtree-of-another-tree/
@@ -213,7 +213,7 @@ https://leetcode.com/shivang_x/
 	https://leetcode.com/problems/balanced-binary-tree/
 	https://leetcode.com/problems/binary-tree-inorder-traversal/   (USING STACK TOO)
 	
-	MEDIUM
+MEDIUM
 	https://leetcode.com/problems/count-good-nodes-in-binary-tree/
 	https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
 	https://leetcode.com/problems/binary-tree-right-side-view/
@@ -233,7 +233,7 @@ https://leetcode.com/shivang_x/
 	https://leetcode.com/problems/kth-smallest-element-in-a-bst/
 	https://leetcode.com/problems/redundant-connection/
 	
-	HARD
+HARD
 	https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
 	https://leetcode.com/problems/binary-tree-maximum-path-sum/
 	https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/
@@ -242,23 +242,23 @@ https://leetcode.com/shivang_x/
 	https://leetcode.com/problems/number-of-ways-to-reconstruct-a-tree/
 	https://leetcode.com/problems/redundant-connection-ii/
 	
-	HASH TABLE 
-	EASY
+HASH TABLE 
+EASY
 	https://leetcode.com/problems/verifying-an-alien-dictionary/
 	https://leetcode.com/problems/design-hashmap/
 	
-	MEDIUM
+MEDIUM
 	https://leetcode.com/problems/top-k-frequent-elements/
 	https://leetcode.com/problems/design-twitter/
 	
-	BINARY SEARCH
-	EASY
+BINARY SEARCH
+EASY
 	https://leetcode.com/problems/sqrtx/
 	https://leetcode.com/problems/binary-search/
 	https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/
 	https://leetcode.com/problems/peak-index-in-a-mountain-array/
 	
-	MEDIUM
+MEDIUM
 	https://leetcode.com/problems/time-based-key-value-store/
 	https://leetcode.com/problems/search-in-rotated-sorted-array/
 	https://leetcode.com/problems/powx-n/
@@ -269,22 +269,22 @@ https://leetcode.com/shivang_x/
 	https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/
 	https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/
 	
-	HARD
+HARD
 	https://leetcode.com/problems/median-of-two-sorted-arrays/
 	https://leetcode.com/problems/count-of-smaller-numbers-after-self/
 	https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/
 	https://leetcode.com/problems/split-array-largest-sum/
 	https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/
 	
-	BFS
-	MEDIUM
+BFS
+MEDIUM
 	https://leetcode.com/problems/number-of-islands/
 	https://leetcode.com/problems/rotting-oranges/
 	https://leetcode.com/problems/snakes-and-ladders/
 	https://leetcode.com/problems/is-graph-bipartite/
 	https://leetcode.com/problems/minimum-jumps-to-reach-home/
 	
-	HARD
+HARD
 	https://leetcode.com/problems/word-ladder/
 	https://leetcode.com/problems/word-ladder-ii/
 	https://leetcode.com/problems/cut-off-trees-for-golf-event/
@@ -298,8 +298,8 @@ https://leetcode.com/shivang_x/
 	https://leetcode.com/problems/maximum-number-of-visible-points/
 	https://leetcode.com/problems/subarrays-with-k-different-integers/
 	
-	BACKTRACKING 
-	MEDIUM
+BACKTRACKING 
+MEDIUM
 	https://leetcode.com/problems/palindrome-partitioning/
 	https://leetcode.com/problems/combination-sum-ii/
 	https://leetcode.com/problems/combinations/
@@ -307,14 +307,14 @@ https://leetcode.com/shivang_x/
 	https://leetcode.com/problems/subsets-ii/
 	https://leetcode.com/problems/beautiful-arrangement/
 	
-	HARD
+HARD
 	https://leetcode.com/problems/word-search-ii/
 	https://leetcode.com/problems/sudoku-solver/
 	https://leetcode.com/problems/n-queens/
 	https://leetcode.com/problems/unique-paths-iii/
 	
-	STACK
-	EASY
+STACK
+EASY
 	https://leetcode.com/problems/min-stack/
 	https://leetcode.com/problems/next-greater-element-i/
 	https://leetcode.com/problems/backspace-string-compare/
@@ -322,7 +322,7 @@ https://leetcode.com/shivang_x/
 	PRE , POST , INORDER TRAVERSALS OF BINARY TREE 
 	https://leetcode.com/problems/implement-stack-using-queues/
 	
-	MEDIUM
+MEDIUM
 	https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/
 	https://leetcode.com/problems/daily-temperatures/
 	https://leetcode.com/problems/flatten-nested-list-iterator/
@@ -331,8 +331,8 @@ https://leetcode.com/shivang_x/
 	https://leetcode.com/problems/sum-of-subarray-minimums/
 	https://leetcode.com/problems/evaluate-reverse-polish-notation/
 	
-	DESIGN
-	MEDIUM / HARD
+DESIGN
+MEDIUM / HARD
 	https://leetcode.com/problems/lru-cache/
 	https://leetcode.com/problems/find-median-from-data-stream/
 	https://leetcode.com/problems/design-underground-system/
@@ -341,12 +341,12 @@ https://leetcode.com/shivang_x/
 	https://leetcode.com/problems/all-oone-data-structure/
 	https://leetcode.com/problems/design-browser-history/
 	
-	GRAPH
-	EASY
+GRAPH
+EASY
 	https://leetcode.com/problems/employee-importance/
 	https://leetcode.com/problems/find-the-town-judge/
 	
-	MEDIUM
+MEDIUM
 	https://leetcode.com/problems/evaluate-division/
 	https://leetcode.com/problems/accounts-merge/
 	https://leetcode.com/problems/network-delay-time/
@@ -362,11 +362,11 @@ https://leetcode.com/shivang_x/
 	https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/
 	https://leetcode.com/problems/time-needed-to-inform-all-employees/
 	
-	BIT MANIPULATION
+BIT MANIPULATION
 	https://leetcode.com/problems/sum-of-two-integers/discuss/84278/A-summary%3A-how-to-use-bit-manipulation-to-solve-problems-easily-and-efficiently
 	
-	LINKED LIST
-	EASY
+LINKED LIST
+EASY
 	https://leetcode.com/problems/reverse-linked-list
 	https://leetcode.com/problems/merge-two-sorted-lists/
 	https://leetcode.com/problems/palindrome-linked-list/
@@ -393,12 +393,12 @@ https://leetcode.com/shivang_x/
 	https://leetcode.com/problems/swap-nodes-in-pairs/
 	https://leetcode.com/problems/rotate-list/
 	
-	HARD
+HARD
 	https://leetcode.com/problems/merge-k-sorted-lists/
 	https://leetcode.com/problems/reverse-nodes-in-k-group/
 	
-	HEAP
-	MEDIUM
+HEAP
+MEDIUM
 	https://leetcode.com/problems/k-closest-points-to-origin/
 	https://leetcode.com/problems/kth-largest-element-in-an-array/
 	https://leetcode.com/problems/reorganize-string/
@@ -408,7 +408,7 @@ https://leetcode.com/shivang_x/
 	https://leetcode.com/problems/find-the-most-competitive-subsequence/
 	https://leetcode.com/problems/ugly-number-ii/
 	
-	HARD
+HARD
 	https://leetcode.com/problems/merge-k-sorted-lists/
 	https://leetcode.com/problems/sliding-window-maximum/
 	https://leetcode.com/problems/the-skyline-problem/
@@ -419,14 +419,14 @@ https://leetcode.com/shivang_x/
 	https://leetcode.com/problems/minimum-cost-to-hire-k-workers/
 	https://leetcode.com/problems/k-th-smallest-prime-fraction/
 	
-	SLIDING WINDOW
-	MEDIUM/HARD
+SLIDING WINDOW
+MEDIUM/HARD
 	https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/
 	https://leetcode.com/problems/max-consecutive-ones-iii/
 	https://leetcode.com/problems/grumpy-bookstore-owner/
 	https://leetcode.com/problems/sliding-window-median/
 	
-	TRIE
+TRIE
 	https://leetcode.com/explore/learn/card/trie/
 	SEGMENT TREE
 	https://leetcode.com/articles/a-recursive-approach-to-segment-trees-range-sum-queries-lazy-propagation/
